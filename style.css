@@ -1,0 +1,19 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+canvas{
+    border-radius: 30px;
+    border-color: brown;
+    border-style: dashed;
+    background-color: wheat;
+    height: 500px;
+    width: 700px;
+    margin-top: 50px;
+}
+h1{
+    font-family: cursive;
+    font-size: 50px;
+    font-weight: bolder;
+    color: rgb(224, 64, 64);
+}
